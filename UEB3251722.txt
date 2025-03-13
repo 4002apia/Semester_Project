@@ -1,0 +1,64 @@
+QUESTION 2 B
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>contact</title>
+</head>
+<body>
+    <img src="download.png"alt="Download">
+  <p>Name:Adinga Quddus Apiawin</p>  
+  <p>Phone Number:0543257879
+  <p>Email Address:adinga@gmail.com</p>
+  <p>Program: Bsc Information technology</p>
+  <p>Level: Level 300 </p>
+  <p>Index Number: UEB3251722</p>
+</body>
+</html>
+
+
+
+QUESTION ONE 
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>World cup tournament</title>
+</head>
+<body>
+    <h1 style="border: solid 1px black ;">FIFA WORLD CUP PAIRINGS</h1>
+    <table style="border: solid black;">
+        
+        <tr>
+            <td style="border: solid 1px black
+             ;"><strong>GROUP A</strong></td>
+            <TD style="border: solid 1px black ;"><STRong>GROUP B</STRong></TD>
+            <td style="border: solid 1px black ;"><strong>GROUP C</strong></td>
+        </tr>
+        <tr>
+            <td style="border: solid 1px black ;">Ghana</td>
+            <td style="border: solid 1px black ;">Brazil</td>
+            <td style="border: solid 1px black ;">Argentina</td>
+        </tr>
+        <tr>
+            <td style="border: solid 1px black ;">Portugal</td>
+            <td style="border: solid 1px black ;">England</td>
+            <td style="border: solid 1px black ;">France</td>
+        </tr>
+        <tr>
+            <td style="border: solid 1px black ;">Canada</td>
+            <td style="border: solid 1px black ;">Switzerland</td>
+            <td style="border: solid 1px black ;">USA</td>
+        </tr>
+        <tr>
+            <td style="border: solid 1px black ;">Uruguay</td>
+            <td style="border: solid 1px black ;">Senegal</td>
+            <td style="border: solid 1px black ;">Cameroon</td>
+        </tr>
+    </table>
+</body>
+</html>
